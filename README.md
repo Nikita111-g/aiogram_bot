@@ -1,6 +1,7 @@
 # aiogram_bot_sosite
 This is а template of telegram bot.
 In your template you need make .env, that seems like:
+
 BOT_TOKEN=1234jrjepgjsgrgje
 
 ADMINS=124854, 204343049, 324903284
